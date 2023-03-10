@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7691912f-91d4-4ccb-bb9b-4fec4ad04875" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/cl/global/logic/exercise/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ey/exercise/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cl/global/logic/exercise/GlobalLogicController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ey/exercise/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cl/global/logic/exercise/GlobalLogicProtectedController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ey/exercise/ProtectedController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cl/global/logic/exercise/GlobalLogicService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ey/exercise/Service.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cl/global/logic/exercise/GlobalLogicServiceFacade.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ey/exercise/ServiceFacade.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cl/global/logic/exercise/data/GlobalLogicRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ey/exercise/data/Repository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cl/global/logic/exercise/data/dtos/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ey/exercise/data/dtos/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cl/global/logic/exercise/usecases/dosignin/DoSignInUseCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ey/exercise/usecases/dosignin/DoSignInUseCase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cl/global/logic/exercise/usecases/dosignin/models/DoSignInRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ey/exercise/usecases/dosignin/models/DoSignInRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cl/global/logic/exercise/usecases/dosignin/models/DoSignInResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ey/exercise/usecases/dosignin/models/DoSignInResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cl/global/logic/exercise/usecases/dosignin/models/Phone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ey/exercise/usecases/dosignin/models/Phone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cl/global/logic/exercise/usecases/finduserbyemail/FindUserByEmailUseCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ey/exercise/usecases/finduserbyemail/FindUserByEmailUseCase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cl/global/logic/exercise/usecases/finduserbyemail/models/FindUserByEmailRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ey/exercise/usecases/finduserbyemail/models/FindUserByEmailRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cl/global/logic/exercise/usecases/finduserbyemail/models/FindUserByEmailResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ey/exercise/usecases/finduserbyemail/models/FindUserByEmailResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cl/global/logic/exercise/usecases/getusers/GetUsersUseCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ey/exercise/usecases/getusers/GetUsersUseCase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cl/global/logic/exercise/usecases/getusers/models/GetUsersResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ey/exercise/usecases/getusers/models/GetUsersResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cl/global/logic/exercise/utilities/AppConstant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ey/exercise/utilities/AppConstant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cl/global/logic/exercise/utilities/exceptions/CustomExceptionsHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ey/exercise/utilities/exceptions/CustomExceptionsHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cl/global/logic/exercise/utilities/exceptions/ExceptionHandlerResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ey/exercise/utilities/exceptions/ExceptionHandlerResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cl/global/logic/exercise/utilities/exceptions/FieldsErrors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ey/exercise/utilities/exceptions/FieldsErrors.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cl/global/logic/exercise/utilities/formats/Date.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ey/exercise/utilities/formats/Date.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cl/global/logic/exercise/utilities/formats/HandlerMessage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ey/exercise/utilities/formats/HandlerMessage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cl/global/logic/exercise/utilities/formats/LoadStubs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ey/exercise/utilities/formats/LoadStubs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cl/global/logic/exercise/utilities/jwt/CustomUserDetailsService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ey/exercise/utilities/jwt/CustomUserDetailsService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cl/global/logic/exercise/utilities/jwt/JwtConfigurer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ey/exercise/utilities/jwt/JwtConfigurer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cl/global/logic/exercise/utilities/jwt/JwtTokenFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ey/exercise/utilities/jwt/JwtTokenFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cl/global/logic/exercise/utilities/jwt/JwtTokenProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ey/exercise/utilities/jwt/JwtTokenProvider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cl/global/logic/exercise/utilities/jwt/SecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ey/exercise/utilities/jwt/SecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cl/global/logic/exercise/utilities/jwt/exceptions/AuthenticationEntryPointHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ey/exercise/utilities/jwt/exceptions/AuthenticationEntryPointHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cl/global/logic/exercise/utilities/jwt/exceptions/CustomAccessDeniedHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ey/exercise/utilities/jwt/exceptions/CustomAccessDeniedHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cl/global/logic/exercise/utilities/jwt/exceptions/CustomLogoutHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ey/exercise/utilities/jwt/exceptions/CustomLogoutHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cl/global/logic/exercise/utilities/jwt/exceptions/CustomLogoutSuccessHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ey/exercise/utilities/jwt/exceptions/CustomLogoutSuccessHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cl/global/logic/exercise/utilities/jwt/models/CustomUserDetails.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ey/exercise/utilities/jwt/models/CustomUserDetails.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/cl/global/logic/exercise/ApplicationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ey/exercise/ApplicationTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/cl/global/logic/exercise/usecase/UserStubs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ey/exercise/usecase/UserStubs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/cl/global/logic/exercise/usecase/dosignin/DoSignInStubs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ey/exercise/usecase/dosignin/DoSignInStubs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/cl/global/logic/exercise/usecase/dosignin/DoSignInTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ey/exercise/usecase/dosignin/DoSignInTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/cl/global/logic/exercise/usecase/finduserbyemail/FindUserByEmailStubs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ey/exercise/usecase/finduserbyemail/FindUserByEmailStubs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/cl/global/logic/exercise/usecase/finduserbyemail/FindUserByEmailTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ey/exercise/usecase/finduserbyemail/FindUserByEmailTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/cl/global/logic/exercise/usecase/getusers/GetUsersStubs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ey/exercise/usecase/getusers/GetUsersStubs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/cl/global/logic/exercise/usecase/getusers/GetUsersTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ey/exercise/usecase/getusers/GetUsersTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/cl/global/logic/exercise/utilities/AppConstantTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ey/exercise/utilities/AppConstantTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/cl/global/logic/exercise/utilities/exceptions/CustomExceptionsHandlerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ey/exercise/utilities/exceptions/CustomExceptionsHandlerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/cl/global/logic/exercise/utilities/exceptions/ExceptionHandlerResponseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ey/exercise/utilities/exceptions/ExceptionHandlerResponseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/cl/global/logic/exercise/utilities/exceptions/FieldsErrorsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ey/exercise/utilities/exceptions/FieldsErrorsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/cl/global/logic/exercise/utilities/formats/DateTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ey/exercise/utilities/formats/DateTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/cl/global/logic/exercise/utilities/formats/LoadStubsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ey/exercise/utilities/formats/LoadStubsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/cl/global/logic/exercise/utilities/jwt/models/CustomUserDetailsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ey/exercise/utilities/jwt/models/CustomUserDetailsTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Mpfir4BHfzZIDZbdkqIn523tHm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/Luciano/Documents/GitHub/CreacionUsuarios"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7691912f-91d4-4ccb-bb9b-4fec4ad04875" name="Changes" comment="" />
+      <created>1678469578055</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678469578055</updated>
+    </task>
+    <servers />
+  </component>
+</project>
