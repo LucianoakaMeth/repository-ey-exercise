@@ -1,8 +1,9 @@
 {
 	"info": {
-		"_postman_id": "9b901de2-5545-4e53-bbef-1cbb3a1ae074",
-		"name": "Global Logic Exercise",
-		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+		"_postman_id": "24b49ef7-8014-42be-9618-59beb467bec4",
+		"name": "EY Exercise",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "11347972"
 	},
 	"item": [
 		{
@@ -11,7 +12,6 @@
 				{
 					"listen": "test",
 					"script": {
-						"id": "946020e8-ba30-4da2-9f87-52d418c0769e",
 						"exec": [
 							"const response = pm.response.json();",
 							"postman.setEnvironmentVariable(\"jwt_token\", response.token);",
@@ -177,7 +177,6 @@
 		{
 			"listen": "prerequest",
 			"script": {
-				"id": "d04f2a41-050e-49cc-b653-83318279a6c6",
 				"type": "text/javascript",
 				"exec": [
 					""
@@ -187,13 +186,11 @@
 		{
 			"listen": "test",
 			"script": {
-				"id": "52afcae5-1b92-46a0-85c1-a036aae3edf2",
 				"type": "text/javascript",
 				"exec": [
 					""
 				]
 			}
 		}
-	],
-	"protocolProfileBehavior": {}
+	]
 }
