@@ -85,7 +85,7 @@ Considerate use this versión.
 - Install the dependencies.
 - Import project into your IDE.
 - Run test and bootrun gradle to the project.
-- Import collection and enviroment to your postman locate in directory repository-exercise-one-globallogic-cl\src\main\resources\postman
+- Import collection and enviroment to your postman locate in directory repository-ey-exercise\repository-ey-exercise\src\main\resources\postman
 - Now test all endpoint.
 
 ### Authors
